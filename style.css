@@ -1,0 +1,35 @@
+h1{
+    color: green;
+    font-family: sans-serif;
+}
+p{
+    color:blue;
+    font-family: fantasy;
+}
+h2{
+    color: green;
+    font-family: sans-serif;
+}
+h3{
+    color: green;
+    font-family: sans-serif;
+}
+a{
+    font-family : Helvetica, sans-serif;
+    text-decoration : none;
+    background-color: aquamarine;
+    padding : 5px;
+    }
+    a:hover{
+        background-color: aqua;
+        color : #ffffff;
+        }
+        #menu-bar a{
+            font-family: Helvetica, sans-serif;
+            text-decoration: none;
+            background-color: aquamarine;
+            padding: 5px;
+            #menu-bar a:hover{
+                background-color: aqua;
+                color: #ffffff;
+                }
